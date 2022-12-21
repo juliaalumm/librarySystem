@@ -1,0 +1,20 @@
+1,Fantasy,The Hobbit,J. R. R. Tolkien,8/1/2010,0
+2,Fantasy,Harry Potter and the Philosophers Stone,J. K. Rowling,8/1/2012,high
+3,Thriller,And Then There Were None,Agatha Christie,8/1/2012,high
+4,General,Lolita,Vladimir Nabokov,4/3/2010,0
+5,Fantasy,Harry Potter and the Chamber of Secrets,J. K. Rowling,8/1/2012,0
+6,General,James and the Giant Peach,Roald Dahl,4/3/2010,juli
+7,Thriller,To Kill a Mockingbird,Harper Lee,3/5/2012,0
+8,Young Adult,The Fault in Our Stars,John Green,4/3/2010,0
+9,Thriller,One of Us Is Lying,Karen M. McManus,4/3/2010,0
+10,Romance,Looking for Alaska,John Green,8/1/2012,0
+11,Young Adult,Paper Towns,John Green,8/1/2012,0
+12,Young Adult,Divergent,Veronica Roth,8/2/2010,0
+13,Young Adult,The Hunger Games,Suzanne Collins,7/4/2012,0
+14,Romance,Eleanor & Park,Rainbow Rowell,8/3/2012,0
+15,Thriller,You,Caroline Kepnes,7/4/2012,clai
+16,Thriller,Gone Girl,Gillian Flynn,6/7/2011,0
+17,Romance,Five Feet Apart,Tobias Iaconis,7/8/2012,0
+18,Young Adult,Ill Give You The Sun,Jandy Nelson,8/2/2012,0
+19,Romance,If I Stay,Gayle Forman,7/4/2010,0
+20,Thriller,And Then There Were None,Agatha Christie,9/1/2012,0
